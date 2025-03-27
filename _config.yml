@@ -1,5 +1,5 @@
-title: example.com
-description: "Satellite - jekyll blog theme"
+title: CyberSecurity Advice
+description: "A simple site providing information on Cyber Security and how to stay safe with information on the internet."
 logo_img: "/assets/img/favicon.webp"
 profile_img: "/assets/img/profile.webp"
 
@@ -14,7 +14,7 @@ instagram_username: instagram
 linkedin_username: linkedin
 facebook_username: facebook
 
-# External API
+# External APIs
 giscus_repo: "byanko55/jekyll-theme-satellite"
 giscus_repoId: "R_kgDOJ6fqWg"
 giscus_category: "Q&A"
