@@ -10,7 +10,7 @@ The internet is a powerful place. If the wrong people find out certain things ve
 
 I've noticed quite a few people publicly posting various information such as birthdays, now, feel free to do this, I however don't recommend doing so. 
 
-Especially when under adult age (18+) and or if your apart of 'vulnerable' communities. (I personally am a LGBTQIA+ Furry. Part of the reason you likely wont see things linking to my identity on any of my internet posts. I follow my own advice.)
+Especially when under adult age (18+) and or if your apart of 'vulnerable' / attacked communities, such as the LGBTQIA+, Furry, and Alterhuman comunities. (I personally am a LGBTQIA+ Furry. Part of the reason you likely wont see things linking to my identity on any of my internet posts. I follow my own advice.)
 
 No Internet site is entirely secure, there are almost always ways to get in. 
 
