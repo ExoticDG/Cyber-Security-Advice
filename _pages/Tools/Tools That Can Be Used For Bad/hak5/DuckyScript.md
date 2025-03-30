@@ -27,4 +27,4 @@ https://shop.hak5.org
 
 This is an example of what a BADUSB device running ducky script can do. The BADUSB device is a FlipperZero and the output is from a USBvalve.
 
-[![asciicast](https://asciinema.org/a/NWfC9Mvzzpj3eZfsC7s5Dz1sJ.svg)](https://asciinema.org/a/NWfC9Mvzzpj3eZfsC7s5Dz1sJ)
+<script src="https://asciinema.org/a/NWfC9Mvzzpj3eZfsC7s5Dz1sJ.js" id="asciicast-NWfC9Mvzzpj3eZfsC7s5Dz1sJ" async="true"></script>
