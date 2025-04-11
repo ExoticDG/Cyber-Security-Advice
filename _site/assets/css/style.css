@@ -169,7 +169,7 @@ input::-webkit-search-results-decoration {
   width: 9rem;
   aspect-ratio: 1;
   border-radius: 50%;
-  outline: 4.5rem solid rgba(64, 64, 64, 0.5);
+  outline: 4.5rem solid rgba(69, 69, 69, 0.263);
   outline-offset: -4.5rem;
   transition: 0.3s;
 }

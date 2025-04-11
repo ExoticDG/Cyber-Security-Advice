@@ -3,7 +3,7 @@ title: "USBvalve"
 tags:
     - USB
 date: "2025-3-30"
-thumbnail: ""
+thumbnail: "https://raw.githubusercontent.com/cecio/USBvalve/refs/heads/main/pictures/USBvalve_logo_scaled.png"
 bookmark: true
 ---
 
